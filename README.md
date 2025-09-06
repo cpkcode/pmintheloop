@@ -1,4 +1,13 @@
+## Table of Contents
 
+- [Introduction](#Introduction)
+- [Chapter 1: The Insight or the Illusion of it](#chapter-1-the-insight-or-the-illusion-of-it)
+- [Chapter 2: Builder's Brief](#chapter-2-builders-brief)
+- [Chapter 3: The Prototype and the Pushback](#chapter-3-the-prototype-and-the-pushback)
+- [Chapter 4: The Sentient Interface](#chapter-4-the-sentient-interface)
+- [Chapter 5: The Intelligent Echo](#chapter-5-the-intelligent-echo)
+- [Chapter 6: The Unexplainable Error](#chapter-6-the-unexplainable-error)
+- [Chapter 7: The Architecture of Trust](#chapter-7-the-architecture-of-trust)
 
 # Introduction
 
@@ -23,16 +32,6 @@ Richard Christy, the ambitious ex-founder, product manager, forever hustling and
 Through their debates, their anxieties, and their hard won insights, we witness the evolution of a new kind of work. It is a shift from being the sole authors of ideas to becoming their curators, their sculptors, and, most importantly, their conscience. It is a journey that asks us to define the irreplaceable value of our own humanity, our intuition, our empathy, our ability to see the lake the GPS tells us to drive into.
 
 The story that unfolds in these pages is a search for the architecture of trust in an age of intelligent machines. It is an invitation to consider our own role as the human in the loop, the indispensable partners in a future we are all building, one conversation at a time.
-
-## Table of Contents
-
-- [Chapter 1: The Insight or the Illusion of it](#chapter-1-the-insight-or-the-illusion-of-it)
-- [Chapter 2: Builder's Brief](#chapter-2-builders-brief)
-- [Chapter 3: The Prototype and the Pushback](#chapter-3-the-prototype-and-the-pushback)
-- [Chapter 4: The Sentient Interface](#chapter-4-the-sentient-interface)
-- [Chapter 5: The Intelligent Echo](#chapter-5-the-intelligent-echo)
-- [Chapter 6: The Unexplainable Error](#chapter-6-the-unexplainable-error)
-- [Chapter 7: The Architecture of Trust](#chapter-7-the-architecture-of-trust)
 
 
 # Chapter 1: The Insight or the Illusion of it
