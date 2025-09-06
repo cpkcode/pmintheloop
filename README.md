@@ -8,7 +8,15 @@ In an era where AI transforms every aspect of product development, this story ex
 
 ## Table of Contents
 
-*Coming Soon - Chapters will be added as the book develops*
+Introduction
+Chapter 1: The Insight or the Illusion of it
+Chapter 2: Builder’s Brief
+Chapter 3: The Prototype and the Pushback
+Chapter 4: The Sentient Interface
+Chapter 5: The Intelligent Echo
+Chapter 6: The Unexplainable Error
+Chapter 7: The Architecture of Trust
+
 
 ## About the Author
 
