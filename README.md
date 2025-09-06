@@ -1,12 +1,22 @@
 # PM in the Loop
-
 **A Workplace Fiction Book on Product Management in the Age of AI**
 
-We stand at the precipice of a new era, one defined not by the tools we wield, but by the intelligence that wields them alongside us. The promise is seductive: systems that can learn, predict, and create at a scale beyond human comprehension. They will offer us flawless efficiency, data-driven certainty, and solutions to problems we’ve barely had time to define.
+We stand at the precipice of a new era, one defined not by the tools we wield, but by the intelligence that wields them alongside us. The promise is seductive: systems that can learn, predict, and create at a scale beyond human comprehension. They will offer us flawless efficiency, data-driven certainty, and solutions to problems we've barely had time to define.
 
 But what happens when the architect becomes the algorithm? When the strategist is a simulation?
 
 This book is an exploration of that question. It is not a story about dystopian futures or robotic overlords. It is a story about the messy, complicated, and often contradictory present.
+
+## Table of Contents
+
+- [Chapter 1: The Insight or the Illusion of it](chapter1.md)
+- [Chapter 2: Builder's Brief](chapter2.md)
+- [Chapter 3: The Prototype and the Pushback](chapter3.md)
+- [Chapter 4: The Sentient Interface](chapter4.md)
+- [Chapter 5: The Intelligent Echo](chapter5.md)
+- [Chapter 6: The Unexplainable Error](chapter6.md)
+- [Chapter 7: The Architecture of Trust](chapter7.md)
+- [About the Author](about.md)
 
 Our story is set in the year 2025, within the sprawling San Francisco campus of Emealwise, a tech giant racing to build the future of food. Here, amidst the hum of innovation, a daily ritual unfolds. Every day, between 12 and 1 PM, four colleagues escape to a small lunch table, a temporary island in a sea of corporate flux. Their conversations, captured in these chapters, become a microcosm of a world grappling with its own creation.
 
@@ -23,4 +33,3 @@ Richard Christy, the ambitious ex-founder, product manager, forever hustling and
 Through their debates, their anxieties, and their hard won insights, we witness the evolution of a new kind of work. It is a shift from being the sole authors of ideas to becoming their curators, their sculptors, and, most importantly, their conscience. It is a journey that asks us to define the irreplaceable value of our own humanity, our intuition, our empathy, our ability to see the lake the GPS tells us to drive into.
 
 The story that unfolds in these pages is a search for the architecture of trust in an age of intelligent machines. It is an invitation to consider our own role as the human in the loop, the indispensable partners in a future we are all building, one conversation at a time.
-
