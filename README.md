@@ -1,3 +1,5 @@
+![Cover book](images/intro.png)
+
 ## Table of Contents
 
 - [Introduction](#Introduction)
@@ -60,6 +62,8 @@ The conversation hung in the air, a question with no easy answer. The cafeteria 
 
 # Chapter 2: Builder's Brief
 
+![Chapter 2 Cover](images/ch2.png)
+
 Wednesday, 12:02 PM. The next day, the conversation picked up as if it had never paused. It was Richard, predictably, who lit the fuse. He didn’t even wait for everyone to sit down, sliding his phone onto the center of the table with a theatrical flair. On the screen was a screenshot of a tweet that felt like a declaration of war on their entire profession. “Exhibit A,” Richard announced, tapping the screen. “Google Gemini’s Head of Product. ‘We’re ditching PRDs for prototypes.’ It’s happening, people. The old way is officially dead.” Sarah squinted at the phone, her shoulders tensing. “That’s a huge shift,” she said, the words coming out slowly, as if she were handling a delicate explosive. “A building-first culture? What does that even mean for accountability? A Product Requirements Document was a contract. It was the document of record you pointed to when things went sideways.” “It was also a fifty-page document that nobody read and was outdated the second you hit publish,” Richard countered, grabbing a slice of pizza. “Rohit, you know what I’m talking about. We’re already doing this. I haven’t written a real PRD in months.”
 
 He was right. Rohit nodded in acknowledgment. “We don’t, not really. The process has fundamentally changed. Last week, I needed to spec out a new onboarding flow. Instead of writing for days, I spent ten minutes with Nova.” He leaned forward, painting the picture for them. “My brief was simple, something like: ‘Propose a functional prototype for a better user onboarding flow for Emealwise Prime.’ And Nova did the rest. Hùng and I built it to be contextually aware. It automatically scanned our Confluence library for the design system, cross-referenced Jira for the top user complaints in the ‘Onboarding’ epic, and tapped into external market intelligence APIs to analyze competitor flows. It pulled all that context together on its own. In less time than it takes to get a coffee, I had a working prototype I could show to engineering and design.”
@@ -82,6 +86,8 @@ The thought lingered in the air. The line between their ideas and the AI's sugge
 
 
 # Chapter 3: The Prototype and the Pushback
+
+![Chapter 3 Cover](images/ch3.png)
 
 Thursday, 12:10 PM. The mood at the lunch table was tense. Richard poked at his salad, the very picture of entrepreneurial frustration. Across from him, Rohit was methodically eating, his expression thoughtful, as if observing a complex system at work.
 
@@ -116,6 +122,8 @@ The group chuckled, the tension from the morning finally breaking. They were on 
 
 # Chapter 4: The Sentient Interface
 
+![Chapter 4 Cover](images/ch4.png)
+
 Monday, 12:05 PM. The remnants of the previous week’s frantic energy still clung to the air. Richard was already at the table, scrolling through his feed with a furrowed brow. Rohit joined him, carrying a sense of quiet satisfaction.
 
 “We finally got the NutriCoach beta numbers from the weekend,” Rohit began, setting his lunch down. “Adoption is better than we projected. The unified payment system Richard and I cobbled together is holding up. It’s a good foundation.”
@@ -144,6 +152,8 @@ The words hung in the air. They were no longer just building features; they were
 
 
 # Chapter 5: The Intelligent Echo
+
+![Chapter 5 Cover](images/ch5.png)
 
 Wednesday, 12:15 PM. A rare sense of accomplishment settled over the lunch table. The NutriCoach beta had concluded, and the metrics, displayed on Rohit’s tablet, were glowing. He had a quiet air of victory about him.
 
@@ -179,6 +189,8 @@ Rohit looked at his friends. “That’s not an echo chamber. That’s a connect
 
 # Chapter 6: The Unexplainable Error
 
+![Chapter 6 Cover](images/ch6.png)
+
 Thursday, 12:20 PM. The lunch table, usually a stage for debate and intellectual sparring, was shrouded in a heavy silence. An invisible weight pressed down on them, the aftershock of a crisis that had erupted 48 hours earlier. Rohit, who normally led their discussions, stared blankly at the cafeteria wall, his food untouched. Richard and Sarah picked at their meals, avoiding eye contact.
 
 The ping of a news alert on Richard’s phone sliced through the quiet. He glanced at it and let out a low whistle. “The follow up piece just dropped.”
@@ -211,6 +223,8 @@ Rohit looked at the faces around the table, the exhaustion, the lingering anxiet
 
 
 # Chapter 7: The Architecture of Trust
+
+![Chapter 7 Cover](images/ch7.png)
 
 Friday, 12:00 PM. The shadow of the crisis had begun to recede, but it had changed the light in the room. The lunch table felt different. The debates were more grounded, the ambitions tempered by a hard won caution. Rohit, who had carried the weight of the failure most heavily, seemed to have found a new, more deliberate center.
 
