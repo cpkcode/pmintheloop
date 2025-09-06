@@ -1,5 +1,3 @@
-![Cover book](images/intro.png)
-
 ## Table of Contents
 
 - [Introduction](#Introduction)
@@ -12,6 +10,8 @@
 - [Chapter 7: The Architecture of Trust](#chapter-7-the-architecture-of-trust)
 
 # Introduction
+
+![Cover book](images/intro.png)
 
 We stand at the precipice of a new era, one defined not by the tools we wield, but by the intelligence that wields them alongside us. The promise is seductive: systems that can learn, predict, and create at a scale beyond human comprehension. They will offer us flawless efficiency, data-driven certainty, and solutions to problems we've barely had time to define.
 
