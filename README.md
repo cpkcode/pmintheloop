@@ -1,9 +1,4 @@
-# PM in the Loop
-**A Workplace Fiction on Product Management in the Age of AI**
 
-# Authored By
-
-Manas Sharma - https://www.linkedin.com/in/smanas/   Siddharth Saoji - https://www.linkedin.com/in/siddharthsaoji/
 
 # Introduction
 
