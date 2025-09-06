@@ -29,6 +29,17 @@ Through their debates, their anxieties, and their hard won insights, we witness 
 
 The story that unfolds in these pages is a search for the architecture of trust in an age of intelligent machines. It is an invitation to consider our own role as the human in the loop, the indispensable partners in a future we are all building, one conversation at a time.
 
+## Table of Contents
+
+- [Chapter 1: The Insight or the Illusion of it](#chapter-1-the-insight-or-the-illusion-of-it)
+- [Chapter 2: Builder's Brief](#chapter-2-builders-brief)
+- [Chapter 3: The Prototype and the Pushback](#chapter-3-the-prototype-and-the-pushback)
+- [Chapter 4: The Sentient Interface](#chapter-4-the-sentient-interface)
+- [Chapter 5: The Intelligent Echo](#chapter-5-the-intelligent-echo)
+- [Chapter 6: The Unexplainable Error](#chapter-6-the-unexplainable-error)
+- [Chapter 7: The Architecture of Trust](#chapter-7-the-architecture-of-trust)
+
+
 # Chapter 1: The Insight or the Illusion of it
 
 Tuesday, 12:05 PM. The lunch table, a small circle of steel and laminate in the sprawling Emealwise cafeteria, was an island of ritual in a sea of corporate flux. Rohit, having finished his disciplined portion of grilled chicken and quinoa, was the first to arrive, his audiobook already paused. Richard slid into the chair opposite, phone in hand, a half eaten sandwich beside it.
