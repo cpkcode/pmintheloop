@@ -5,7 +5,7 @@
 
 Manas Sharma - https://www.linkedin.com/in/smanas/   Siddharth Saoji - https://www.linkedin.com/in/siddharthsaoji/
 
-#Introduction
+# Introduction
 
 We stand at the precipice of a new era, one defined not by the tools we wield, but by the intelligence that wields them alongside us. The promise is seductive: systems that can learn, predict, and create at a scale beyond human comprehension. They will offer us flawless efficiency, data-driven certainty, and solutions to problems we've barely had time to define.
 
