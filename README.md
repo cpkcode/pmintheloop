@@ -18,7 +18,7 @@ Trần Quang Hùng, the brilliant and analytical data scientist. A quiet observe
 
 Sarah Bond, the sharp, polished, and deeply anxious product manager. A top performer who has made her job the center of her life, she is a master debater who can articulate the ethical tightropes they walk with unnerving clarity. She fears the spotlight and is often the first to point out the potential for disaster.
 
-Richard Christy, the ambitious ex-founder, product manager, forever hustling and searching for his next big startup idea. He sees Emealwise as a paid research opportunity and is constantly pushing the boundaries of whttps://github.comhat's possible, driven by a bias for action and a relentless optimism about technology's potential.
+Richard Christy, the ambitious ex-founder, product manager, forever hustling and searching for his next big startup idea. He sees Emealwise as a paid research opportunity and is constantly pushing the boundaries of what's possible, driven by a bias for action and a relentless optimism about technology's potential.
 
 Through their debates, their anxieties, and their hard won insights, we witness the evolution of a new kind of work. It is a shift from being the sole authors of ideas to becoming their curators, their sculptors, and, most importantly, their conscience. It is a journey that asks us to define the irreplaceable value of our own humanity, our intuition, our empathy, our ability to see the lake the GPS tells us to drive into.
 
