@@ -36,6 +36,8 @@ The story that unfolds in these pages is a search for the architecture of trust 
 
 # Chapter 1: The Insight or the Illusion of it
 
+![Chapter 1 Cover](images/ch1.png)
+
 Tuesday, 12:05 PM. The lunch table, a small circle of steel and laminate in the sprawling Emealwise cafeteria, was an island of ritual in a sea of corporate flux. Rohit, having finished his disciplined portion of grilled chicken and quinoa, was the first to arrive, his audiobook already paused. Richard slid into the chair opposite, phone in hand, a half eaten sandwich beside it.
 
 “I swear, Nova is going to give me an ulcer,” Richard began, not looking up from his screen. “I asked it to explore new revenue streams for my team’s feature set. It came back in twenty minutes with a deck that was 90% of the way there. My manager was thrilled. Me? I’m wondering what my job is anymore.”
