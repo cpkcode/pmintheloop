@@ -12,13 +12,12 @@
 
 ---
 
-**🎬 If you prefer audio instead of reading, check out the youtube playlist with all the chapters narrated here**
+**🎬 If you prefer audio instead of reading, check out the playlist with all the chapters narrated here**
 
-*Click the image or the button below to redirect to youtube.*
+*Click the image below to redirect to youtube.*
 
 [![Watch Introduction on YouTube](https://img.youtube.com/vi/cTYr-KL2YDE/hqdefault.jpg)](https://www.youtube.com/watch?v=cTYr-KL2YDE)
 <br>
-➡️ [**Watch Introduction on YouTube**](https://www.youtube.com/watch?v=cTYr-KL2YDE)
 
 ---
 
