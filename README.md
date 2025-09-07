@@ -12,7 +12,7 @@
 
 ---
 
-**🎬 If you prefer audio instead of reading, check out the playlist with all the chapters narrated here**
+**🎬 If you prefer audio instead of reading, check out the playlist with all the chapters narrated**
 
 *Click the image below to redirect to youtube.*
 
