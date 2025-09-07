@@ -11,7 +11,6 @@
 
 # Introduction
 
-![Cover book](images/intro.png)
 
 [![Watch Introduction on YouTube](https://img.youtube.com/vi/cTYr-KL2YDE/hqdefault.jpg)](https://www.youtube.com/watch?v=cTYr-KL2YDE)
 
