@@ -13,6 +13,10 @@
 
 ![Cover book](images/intro.png)
 
+[![Watch Introduction on YouTube](https://img.youtube.com/vi/cTYr-KL2YDE/hqdefault.jpg)](https://www.youtube.com/watch?v=cTYr-KL2YDE)
+
+
+
 We stand at the precipice of a new era, one defined not by the tools we wield, but by the intelligence that wields them alongside us. The promise is seductive: systems that can learn, predict, and create at a scale beyond human comprehension. They will offer us flawless efficiency, data-driven certainty, and solutions to problems we've barely had time to define.
 
 But what happens when the architect becomes the algorithm? When the strategist is a simulation?
