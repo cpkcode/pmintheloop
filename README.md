@@ -9,7 +9,7 @@
 - [Chapter 6: The Unexplainable Error](#chapter-6-the-unexplainable-error)
 - [Chapter 7: The Architecture of Trust](#chapter-7-the-architecture-of-trust)
 
-# If you prefer audio instead of reading, check out the youtube playlist with all the chapters narrated here
+## If you prefer audio instead of reading, check out the youtube playlist with all the chapters narrated here
 [![Watch Introduction on YouTube](https://img.youtube.com/vi/cTYr-KL2YDE/hqdefault.jpg)](https://www.youtube.com/watch?v=cTYr-KL2YDE)
 
 
