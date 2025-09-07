@@ -9,12 +9,13 @@
 - [Chapter 6: The Unexplainable Error](#chapter-6-the-unexplainable-error)
 - [Chapter 7: The Architecture of Trust](#chapter-7-the-architecture-of-trust)
 
-# Introduction
-
-
+# If you prefer audio instead of reading, check out the youtube playlist with all the chapters narrated here
 [![Watch Introduction on YouTube](https://img.youtube.com/vi/cTYr-KL2YDE/hqdefault.jpg)](https://www.youtube.com/watch?v=cTYr-KL2YDE)
 
 
+# Introduction
+
+![Cover book](images/intro.png)
 
 We stand at the precipice of a new era, one defined not by the tools we wield, but by the intelligence that wields them alongside us. The promise is seductive: systems that can learn, predict, and create at a scale beyond human comprehension. They will offer us flawless efficiency, data-driven certainty, and solutions to problems we've barely had time to define.
 
