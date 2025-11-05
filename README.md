@@ -1,4 +1,4 @@
-** The piece was written in Q2-Q3 2025. The concepts in it were relevant at the time of writing, with AI landscape moving so fast, some of them might become obsolete. **
+**The piece was written in Q2-Q3 2025. The concepts in it were relevant at the time of writing, with AI landscape moving so fast, some of them might become obsolete.**
 
 ## Table of Contents
 
