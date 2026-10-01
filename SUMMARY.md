@@ -1,4 +1,5 @@
-* [Introduction](README.md)
+* [Home](README.md)
+* [Archive](archive.md)
 * [Chapter 1: The Insight or the Illusion of it](chapter1.md)
 * [Chapter 2: Builder's Brief](chapter2.md)
 * [Chapter 3: The Prototype and the Pushback](chapter3.md)
