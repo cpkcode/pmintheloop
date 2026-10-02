@@ -1,21 +1,11 @@
 .identity {
-  display: flex;
-  align-items: center;
-  gap: 14px;
   margin: 2px 0 18px;
 }
 
 .identity-logo {
   width: 96px;
   height: 96px;
-  flex: 0 0 96px;
   display: block;
   border-radius: 50%;
   object-fit: cover;
-}
-
-.identity-banner {
-  flex: 1 1 auto;
-  height: 96px;
-  background: #b8af9e;
 }
