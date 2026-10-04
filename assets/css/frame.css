@@ -243,6 +243,15 @@ a:focus-visible {
 
 .essay .writers { margin-top: 1.35rem; }
 
+.flow-title {
+  margin: 4.5rem 0 0;
+  font-family: var(--serif);
+  font-weight: 400;
+  font-size: clamp(2.2rem, 4vw, 3.4rem);
+  letter-spacing: -0.04em;
+  line-height: 0.98;
+}
+
 .essay-body {
   margin-top: 2.1rem;
   font-size: 1.08rem;

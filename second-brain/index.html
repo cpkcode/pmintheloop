@@ -3,22 +3,18 @@ layout: default
 title: Second Brain
 ---
 
-<section class="split">
-  <aside class="aside">
-    <p class="eyebrow">Second Brain</p>
-    <p class="lede">A series of articles on the context, memory, and rules that sit between you and your AI agents.</p>
-    <p class="writers">{% include writers.html people=site.writers.second_brain %}</p>
-  </aside>
-  <div class="series">
-    {% assign articles = site.second_brain | sort: "date" | reverse %}
-    {% for article in articles %}
-      <a class="entry" href="{{ article.url | relative_url }}">
-        <span class="entry-text">
-          <h2>{{ article.title }}</h2>
-          {% if article.dek %}<p class="dek">{{ article.dek }}</p>{% endif %}
-        </span>
-        <time datetime="{{ article.date | date: '%Y-%m-%d' }}">{{ article.date | date: "%B %-d, %Y" }}</time>
-      </a>
-    {% endfor %}
-  </div>
-</section>
+{% assign articles = site.second_brain | sort: "date" | reverse %}
+<article class="essay">
+  <p class="eyebrow">Second Brain</p>
+  {% for article in articles %}
+    {% if forloop.first %}
+      <h1>{{ article.title }}</h1>
+      <p class="writers">{% include writers.html people=site.writers.second_brain %}</p>
+    {% else %}
+      <h2 class="flow-title">{{ article.title }}</h2>
+    {% endif %}
+    <div class="essay-body">
+      {{ article.content }}
+    </div>
+  {% endfor %}
+</article>
