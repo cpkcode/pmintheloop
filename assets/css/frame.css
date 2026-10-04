@@ -241,6 +241,10 @@ a:focus-visible {
   line-height: 0.94;
 }
 
+.essay .series-intro + h1 {
+  margin-top: 2.4rem;
+}
+
 .essay .writers { margin-top: 1.35rem; }
 
 .flow-title {
