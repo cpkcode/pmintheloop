@@ -22,7 +22,7 @@ defaults:
     values:
       layout: essay
       series: Second Brain
-      series_url: /#second-brain
+      series_url: /second-brain/
       series_key: second_brain
 
 writers:
@@ -34,5 +34,7 @@ writers:
   fiction:
     - name: Manas Sharma
       url: https://www.linkedin.com/in/smanas/
+    - name: Siddharth Saoji
+      url: https://www.linkedin.com/in/siddharthsaoji/
     - name: Sanskriti Uma
       url: https://www.linkedin.com/in/sanskriti-uma/

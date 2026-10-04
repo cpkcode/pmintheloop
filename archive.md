@@ -2,7 +2,7 @@
 title: A Workplace Fiction on Product Management in the Age of AI
 layout: essay
 series: Workplace Fiction
-series_url: /#workplace-fiction
+series_url: /archive.html
 series_key: fiction
 ---
 

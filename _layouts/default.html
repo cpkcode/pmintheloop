@@ -7,7 +7,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&family=Source+Sans+3:wght@400;500;600&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="{{ '/assets/css/frame.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/frame.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
     {% seo %}
   </head>
@@ -19,9 +19,9 @@
           <span>PM in the Loop</span>
         </a>
         <nav class="nav" aria-label="Primary">
-          <a href="{{ '/#second-brain' | relative_url }}">Second Brain</a>
+          <a href="{{ '/second-brain/' | relative_url }}">Second Brain</a>
           <span class="sep" aria-hidden="true">|</span>
-          <a href="{{ '/#workplace-fiction' | relative_url }}">Workplace Fiction</a>
+          <a href="{{ '/archive.html' | relative_url }}">Workplace Fiction</a>
           <span class="sep" aria-hidden="true">|</span>
           <a href="https://www.linkedin.com/company/pm-in-the-loop/">LinkedIn</a>
         </nav>
@@ -32,8 +32,5 @@
       {{ content }}
     </main>
 
-    <footer class="site-footer">
-      <p>{{ site.description }}</p>
-    </footer>
   </body>
 </html>

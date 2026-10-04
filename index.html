@@ -2,39 +2,10 @@
 layout: default
 ---
 
-<section class="split" id="second-brain">
-  <aside class="aside">
-    <p class="eyebrow">Second Brain</p>
-    <p class="lede">A series of articles on the context, memory, and rules that sit between you and your AI agents.</p>
-    <p class="writers">{% include writers.html people=site.writers.second_brain %}</p>
-  </aside>
-  <div class="series">
-    {% assign articles = site.second_brain | sort: "date" | reverse %}
-    {% for article in articles %}
-      <a class="entry" href="{{ article.url | relative_url }}">
-        <span class="entry-text">
-          <h2>{{ article.title }}</h2>
-          {% if article.dek %}<p class="dek">{{ article.dek }}</p>{% endif %}
-        </span>
-        <time datetime="{{ article.date | date: '%Y-%m-%d' }}">{{ article.date | date: "%B %-d, %Y" }}</time>
-      </a>
-    {% endfor %}
-  </div>
-</section>
-
-<section class="split" id="workplace-fiction">
-  <aside class="aside">
-    <p class="eyebrow">Workplace Fiction</p>
-    <p class="lede">Written in Q2–Q3 2025.</p>
-    <p class="writers">{% include writers.html people=site.writers.fiction %}</p>
-  </aside>
-  <div class="series">
-    <a class="entry" href="{{ '/archive.html' | relative_url }}">
-      <span class="entry-text">
-        <h2>A Workplace Fiction on Product Management in the Age of AI</h2>
-        <p class="dek">Introduction and seven chapters.</p>
-      </span>
-      <time datetime="2025">2025</time>
-    </a>
-  </div>
+<section class="home">
+  <h1 class="manifesto">
+    <span>Musings of becoming</span>
+    <span>and staying</span>
+    <em>an AI product manager</em>
+  </h1>
 </section>
