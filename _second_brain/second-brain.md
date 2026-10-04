@@ -1,5 +1,5 @@
 ---
-title: The Second Brain
+title: What is the Second Brain, why do you need one?
 dek: What it means, and why you might need one.
 date: 2026-10-04
 ---

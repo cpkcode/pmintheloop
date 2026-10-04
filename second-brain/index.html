@@ -1,21 +1,18 @@
 ---
 layout: default
-title: Second Brain
+title: The Second Brain
 ---
 
 {% assign articles = site.second_brain | sort: "date" | reverse %}
 <article class="essay">
   <p class="eyebrow">Second Brain</p>
-  <div class="essay-body series-intro">
-    <p><strong>This will be a series of articles on the Second Brain. We will keep adding to it over time, starting with what it means and why you might need one.</strong></p>
+  <h1>The Second Brain</h1>
+  <p class="writers">{% include writers.html people=site.writers.second_brain %}</p>
+  <div class="essay-body">
+    <p><strong>This will be a series of articles on the Second Brain. We will keep adding to it over time.</strong></p>
   </div>
   {% for article in articles %}
-    {% if forloop.first %}
-      <h1>{{ article.title }}</h1>
-      <p class="writers">{% include writers.html people=site.writers.second_brain %}</p>
-    {% else %}
-      <h2 class="flow-title">{{ article.title }}</h2>
-    {% endif %}
+    <h2 class="flow-title">{{ article.title }}</h2>
     <div class="essay-body">
       {{ article.content }}
     </div>
