@@ -4,6 +4,8 @@ title: The Second Brain
 
 # The Second Brain
 
+**Collaborator:** [Sriram Iyer](https://www.linkedin.com/in/navpoint0/)
+
 As you go down the path of making AI agents useful for you and your team, you will hear the term Second Brain. With this article we attempt to explain what it means, and why you might need one.
 
 > A second brain is the persistent layer of knowledge, rules, memory and retrieval that sits between you and your AI agents, giving them the context they need to understand you, your work and the world they operate in.

@@ -1,14 +1,12 @@
 ---
-title: Archive
+title: Workplace Fiction
 ---
 
-# Archive
-
-The text below is what [pmintheloop.com](https://pmintheloop.com/) published through 2025.
+# Workplace Fiction
 
 **A Workplace Fiction on Product Management in the Age of AI**
 
-**Authors:** [Manas Sharma](https://www.linkedin.com/in/smanas/), [Siddharth Saoji](https://www.linkedin.com/in/siddharthsaoji/), [Sanskriti Uma](https://www.linkedin.com/in/sanskriti-uma/)
+**Collaborators:** [Manas Sharma](https://www.linkedin.com/in/smanas/), [Sanskriti Uma](https://www.linkedin.com/in/sanskriti-uma/)
 
 ---
 
