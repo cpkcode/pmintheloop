@@ -14,6 +14,9 @@ title: Second Brain
       <h2 class="flow-title">{{ article.title }}</h2>
     {% endif %}
     <div class="essay-body">
+      {% if forloop.first %}
+        <p><strong>This will be a series of articles on the Second Brain. We will keep adding to it over time, starting with what it means and why you might need one.</strong></p>
+      {% endif %}
       {{ article.content }}
     </div>
   {% endfor %}
