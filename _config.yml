@@ -3,3 +3,36 @@ description: Musings of becoming and staying an AI product manager
 theme: jekyll-theme-hacker
 markdown: kramdown
 show_downloads: false
+exclude:
+  - README.md
+
+collections:
+  second_brain:
+    output: true
+    permalink: /:name.html
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: second_brain
+    values:
+      layout: essay
+      series: Second Brain
+      series_url: /#second-brain
+      series_key: second_brain
+
+writers:
+  second_brain:
+    - name: Siddharth Saoji
+      url: https://www.linkedin.com/in/siddharthsaoji/
+    - name: Sriram Iyer
+      url: https://www.linkedin.com/in/navpoint0/
+  fiction:
+    - name: Manas Sharma
+      url: https://www.linkedin.com/in/smanas/
+    - name: Sanskriti Uma
+      url: https://www.linkedin.com/in/sanskriti-uma/

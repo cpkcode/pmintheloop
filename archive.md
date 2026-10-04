@@ -1,13 +1,9 @@
 ---
-title: Workplace Fiction
----
-
-# Workplace Fiction
-
-**A Workplace Fiction on Product Management in the Age of AI**
-
-**Collaborators:** [Manas Sharma](https://www.linkedin.com/in/smanas/), [Sanskriti Uma](https://www.linkedin.com/in/sanskriti-uma/)
-
+title: A Workplace Fiction on Product Management in the Age of AI
+layout: essay
+series: Workplace Fiction
+series_url: /#workplace-fiction
+series_key: fiction
 ---
 
 **The piece was written in Q2-Q3 2025. The concepts in it were relevant at the time of writing, with AI landscape moving so fast, some of them might become obsolete.**

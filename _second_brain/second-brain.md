@@ -1,10 +1,8 @@
 ---
 title: The Second Brain
+dek: What it means, and why you might need one.
+date: 2026-10-04
 ---
-
-# The Second Brain
-
-**Collaborator:** [Sriram Iyer](https://www.linkedin.com/in/navpoint0/)
 
 As you go down the path of making AI agents useful for you and your team, you will hear the term Second Brain. With this article we attempt to explain what it means, and why you might need one.
 

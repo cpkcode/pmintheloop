@@ -1,34 +1,39 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <meta charset='utf-8'>
+    <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&family=Source+Sans+3:wght@400;500;600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="{{ '/assets/css/frame.css' | relative_url }}">
     {% include head-custom.html %}
-
-{% seo %}
+    {% seo %}
   </head>
-
   <body>
-
-    <header>
-      <div class="container">
-        <div class="identity">
-          <img class="identity-logo" src="{{ '/images/logo.jpg' | relative_url }}" alt="PM in the Loop logo" width="96" height="96">
-        </div>
-        <a id="a-title" href="{{ '/' | relative_url }}">
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
+    <header class="site-header">
+      <div class="site-header-inner">
+        <a class="wordmark" href="{{ '/' | relative_url }}">
+          <span class="mark" aria-hidden="true"></span>
+          <span>PM in the Loop</span>
         </a>
-        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+        <nav class="nav" aria-label="Primary">
+          <a href="{{ '/#second-brain' | relative_url }}">Second Brain</a>
+          <span class="sep" aria-hidden="true">|</span>
+          <a href="{{ '/#workplace-fiction' | relative_url }}">Workplace Fiction</a>
+          <span class="sep" aria-hidden="true">|</span>
+          <a href="https://www.linkedin.com/company/pm-in-the-loop/">LinkedIn</a>
+        </nav>
       </div>
     </header>
 
-    <div class="container">
-      <section id="main_content">
-        {{ content }}
-      </section>
-    </div>
+    <main class="page">
+      {{ content }}
+    </main>
+
+    <footer class="site-footer">
+      <p>{{ site.description }}</p>
+    </footer>
   </body>
 </html>

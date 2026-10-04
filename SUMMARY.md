@@ -1,4 +1,4 @@
-* [Home](README.md)
-* [Second Brain](second-brain.md)
+* [Home](index.html)
+* [The Second Brain](_second_brain/second-brain.md)
 * [Workplace Fiction](archive.md)
 * [About the Author](about.md)

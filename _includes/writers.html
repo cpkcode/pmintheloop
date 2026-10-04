@@ -1,0 +1,4 @@
+{% for writer in include.people %}
+  {% unless forloop.first %}<span class="dot" aria-hidden="true">&middot;</span>{% endunless %}
+  <a href="{{ writer.url }}">{{ writer.name }}</a>
+{% endfor %}
