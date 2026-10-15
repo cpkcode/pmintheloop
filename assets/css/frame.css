@@ -252,6 +252,15 @@ a:focus-visible {
   line-height: 0.98;
 }
 
+.flow-title a {
+  color: inherit;
+  border-bottom: none;
+}
+
+.flow-title a:hover {
+  color: var(--accent-strong);
+}
+
 .essay-body {
   margin-top: 2.1rem;
   font-size: 1.08rem;

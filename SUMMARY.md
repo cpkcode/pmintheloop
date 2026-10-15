@@ -1,5 +1,6 @@
 * [Home](index.html)
 * [Second Brain](second-brain/index.html)
-* [The Second Brain](_second_brain/second-brain.md)
+* [Where should the second brain live?](_second_brain/where-should-the-second-brain-live.md)
+* [What is the Second Brain, why do you need one?](_second_brain/second-brain.md)
 * [Workplace Fiction](archive.md)
 * [About the Author](about.md)
