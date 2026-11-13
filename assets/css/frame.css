@@ -187,6 +187,18 @@ a:focus-visible {
   margin: 0 0.4rem;
 }
 
+.writers a.md {
+  color: var(--muted);
+  border-bottom-color: transparent;
+  font-size: 0.85rem;
+  letter-spacing: 0.06em;
+}
+
+.writers a.md:hover {
+  color: var(--accent-strong);
+  border-bottom-color: var(--accent);
+}
+
 .series { min-width: 0; }
 
 .entry {

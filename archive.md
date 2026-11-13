@@ -1,5 +1,6 @@
 ---
 title: A Workplace Fiction on Product Management in the Age of AI
+dek: Four colleagues at a food company, and the AI they argue about over lunch.
 layout: essay
 series: Workplace Fiction
 series_url: /archive.html

@@ -1,0 +1,30 @@
+# PM in the Loop
+
+> Musings of becoming and staying an AI product manager.
+
+Essays are available as clean markdown by replacing `.html` with `.md`. The full text of the essays and the workplace fiction is at https://pmintheloop.com/llms-full.txt.
+
+## Second Brain
+
+A series on the context layer an AI agent needs. Writers: Siddharth Saoji and Sriram Iyer. Series page: https://pmintheloop.com/second-brain/
+
+- [What goes into the Second Brain?](https://pmintheloop.com/what-goes-into-the-second-brain.md): Store broadly, and load narrowly.
+- [Where should the second brain live?](https://pmintheloop.com/where-should-the-second-brain-live.md): It is a connector decision, not a storage decision.
+- [What is the Second Brain, why do you need one?](https://pmintheloop.com/second-brain.md): What it means, and why you might need one.
+
+## Workplace Fiction
+
+A story about product management in the age of AI. Writers: Manas Sharma, Siddharth Saoji, and Sanskriti Uma.
+
+- [A Workplace Fiction on Product Management in the Age of AI](https://pmintheloop.com/archive.md): Four colleagues at a food company, and the AI they argue about over lunch.
+- [Chapter 1: The Insight or the Illusion of it](https://pmintheloop.com/chapter1.md): A chapter of the workplace fiction.
+- [Chapter 2: Builder's Brief](https://pmintheloop.com/chapter2.md): A chapter of the workplace fiction.
+- [Chapter 3: The Prototype and the Pushback](https://pmintheloop.com/chapter3.md): A chapter of the workplace fiction.
+- [Chapter 4: The Sentient Interface](https://pmintheloop.com/chapter4.md): A chapter of the workplace fiction.
+- [Chapter 5: The Intelligent Echo](https://pmintheloop.com/chapter5.md): A chapter of the workplace fiction.
+- [Chapter 6: The Unexplainable Error](https://pmintheloop.com/chapter6.md): A chapter of the workplace fiction.
+- [Chapter 7: The Architecture of Trust](https://pmintheloop.com/chapter7.md): A chapter of the workplace fiction.
+
+## About
+
+- [About the Author](https://pmintheloop.com/about.md): Manas Sharma and Siddharth Saoji.

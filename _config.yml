@@ -1,10 +1,15 @@
 title: PM in the Loop
 description: Musings of becoming and staying an AI product manager
+url: https://pmintheloop.com
 theme: jekyll-theme-hacker
 markdown: kramdown
 show_downloads: false
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
 exclude:
   - README.md
+  - script
 
 collections:
   second_brain:

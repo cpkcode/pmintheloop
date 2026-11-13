@@ -10,6 +10,11 @@
     <link rel="stylesheet" href="{{ '/assets/css/frame.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
     {% seo %}
+    {% if page.url == "/" %}
+      <link rel="alternate" type="text/markdown" href="{{ '/index.md' | relative_url }}" title="Markdown version">
+    {% elsif page.layout == "essay" %}
+      <link rel="alternate" type="text/markdown" href="{{ page.url | replace: '.html', '.md' | relative_url }}" title="Markdown version">
+    {% endif %}
   </head>
   <body>
     <header class="site-header">
