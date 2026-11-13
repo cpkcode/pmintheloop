@@ -1,0 +1,61 @@
+---
+title: What goes into the Second Brain?
+dek: Store broadly, and load narrowly.
+date: 2026-11-13
+---
+
+OK so you know what is a second brain, and where it should live. Now comes the point of what goes into the second brain, beyond merely connecting data sources like Slack and email, loading meeting transcripts and importing documents. There are 2 baseline ideas supporting the logic.
+
+## Structure over volume
+
+Remember that the second brain is essentially context for your agent, which means, like a human, it can only comprehend limited information and if given in an easy to consume format, it comprehends better.
+
+Structure can be given in many ways. We have found a 2 layer architecture to work well.
+
+**Layer 1.** An MD file with URLs to relevant data sources, skills or MCP configs to connect to them, and a summary of what each source contains. Think of it like piping for your raw second brain content.
+
+**Layer 2.** An MD file with inference of content in layer 1, which is extracted knowledge about projects: people in them, current status, what decisions were made and why, what alternatives were considered and why they were skipped. The historical chain of decisions made on a project and what is the latest approved one. This layer has the meta data that connects it to layer 1, so that the agent or human can dig down into the source for confirming or adding reasoning.
+
+Building layer 2 should start from the set of questions you think the second brain should have answers to. For a PM those could be:
+
+- Why did we prioritise this feature over the alternatives?
+- What have customers said about the problem we are trying to solve?
+- What changed since the last roadmap review?
+- What constraints should the agent respect when drafting a PRD?
+
+You might ask why not just run RAG over the raw sources. Retrieval finds text that matches the question. It doesn't know which decision is current, what was rejected, or why. That knowledge has to be built, and that's what the second layer is for.
+
+## Ingestion is a continuous process
+
+Your projects, your work is updating every day, and every day it produces more information, more decisions, more context for your agents. So the ingestion process has to happen daily (or even hourly or real time if you move like some of the AI native firms). The rate of ingestion influences 2 things.
+
+1. Cost of building layer 2, as it would be built by LLMs.
+2. Human investment incurred. A purely LLM built layer 2 is going to have gaps, so human oversight is necessary. The more frequently layer 2 is modified the more oversight investment is needed.
+
+To buffer for both, build deterministic guardrails. A guardrail is a rule enforced by a script, not by the LLM's judgment. That's why it's cheap, and it's why human review can go to real judgment calls instead of formatting and housekeeping. They fall into three groups.
+
+**What gets processed (controls cost)**
+
+- **Delta only.** Every layer 1 source stores a last-processed timestamp or content hash. If nothing changes, the LLM is never called. Ingesting daily doesn't mean rebuilding daily.
+- **Exclusion lists.** Channels, folders, and labels that never enter ingestion, such as social channels, HR threads, and anything confidential.
+- **Size caps.** Each layer 2 entry has a maximum length, and each run has a maximum number of entries it can change. Hitting a cap sends the run to human review instead of letting it write more.
+
+**What a valid entry looks like (controls quality)**
+
+- **Required fields.** Every entry needs a source link, a date, a project, and a tag of stated or inferred. Entries missing any of these are rejected before a human sees them.
+- **Fixed status values.** A decision is proposed, approved, or superseded. A new decision on the same topic must reference the entry it replaces, so "the latest approved one" is a lookup, not a guess.
+- **No invented rationale.** If the source doesn't say why a decision was made, the entry says "rationale not stated" instead of filling the gap with something plausible.
+
+**What the LLM can't touch (controls oversight)**
+
+- **Locked entries.** Once a human approves an entry, the LLM can only propose changes as a diff in a review queue. It can't overwrite.
+- **Re-anchor to sources.** Updates are built from layer 1 sources, not from the previous layer 2 summary. Otherwise each pass builds on the last pass's errors.
+- **Scoped writes.** A run for one project can only write to that project's files.
+
+The payoff is a short review queue: new entries tagged inferred, runs that hit a cap, and proposed changes to locked entries. Everything else passed the checks and doesn't need a human read.
+
+Start with a few of these and add rules as you see real failures. Every rule that rejects a write creates something to review, so the guardrails need tuning too.
+
+Layer 1 tells the agent where to look. Layer 2 tells it what's known. The guardrails keep both trustworthy as they change daily. Done well, you store broadly and load narrowly: the agent reads the index, pulls the one or two layer 2 files that matter, and goes to a raw source only when it needs to verify.
+
+Now you have knowledge forming the second brain. Look forward to the next article on how to use it in your daily workflows.
